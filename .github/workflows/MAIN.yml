@@ -1,36 +1,36 @@
 name: Generate Snake
 
+# Run every 6 hours and allow manual trigger
 on:
   schedule:
-    - cron: "0 */6 * * *"  # every 6 hours
-  workflow_dispatch:        # manual trigger
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout the repository
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      # Checkout the repository
+      - uses: actions/checkout@v2
 
-      # 2. Generate the snake GIF and SVG
-      - name: Generate Snake
-        uses: Platane/snk@v1.1.2
+      # Generate the snake GIF & SVG
+      - uses: Platane/snk@v1.1.2
+        id: snake-gif
         with:
           github_user_name: aawhan0
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # 3. Debug: show git status
-      - name: Show git status
-        run: git status
+      # Show git status for debugging
+      - run: git status
 
-      # 4. Commit and push changes to 'output' branch only
+      # Commit and push to output branch
       - name: Commit and push to output branch
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
+          git fetch origin
           git checkout -B output
           git add dist/
           git commit -m "Update contribution snake" || echo "No changes to commit"
