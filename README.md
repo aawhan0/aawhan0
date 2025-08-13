@@ -29,3 +29,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aawhan0&show_icons=true&locale=en&layout=compact" alt="aawhan0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aawhan0&show_icons=true&locale=en" alt="aawhan0" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aawhan0/aawhan0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aawhan0/aawhan0/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/aawhan0/aawhan0/output/github-snake.svg" />
+</picture>
+
