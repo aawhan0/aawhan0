@@ -18,7 +18,7 @@
 ---
 
 ### 🎵 My Last.fm Scrobbles
-![My Scrobbles](https://pastfm.arpy8.repl.co/live?username=aaawhan&color=ff5733&bgcolor=000000)
+![PastFm Scrobble](https://arpy8-pastfm-backend.hf.space/live?user=aaawhan)
 
 ---
 
