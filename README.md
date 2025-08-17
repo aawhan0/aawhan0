@@ -1,7 +1,7 @@
 <img src="https://media1.tenor.com/m/qjdRRog5BF0AAAAd/cyberpunk-edgerunner-david-martinez.gif" width="1000" height="350"/>
 <h1 align="center">Hi 👋, I'm Aawhan Vyas</h1>
 <h3 align="center">A passionate full stack developer based in India.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/uYP_Nkq8VPsAAAAd/coding-hello-world.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aawhan0&label=Profile%20views&color=0e75b6&style=flat" alt="aawhan0" /> </p>
 
