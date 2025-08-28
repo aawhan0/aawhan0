@@ -102,7 +102,7 @@
     <td><b>DevOps & Tools</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="35" height="35"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
     </td>
@@ -113,7 +113,7 @@
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="35" height="35"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="35" height="35"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" alt="canva" width="35" height="35"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="35" height="35"/>
     </td>
   </tr>
