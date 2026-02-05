@@ -8,7 +8,7 @@
     <td width="60%" valign="top">
       <div align="center">
         <h1>Hi 👋, I'm Aawhan</h1>
-        <hr width="80%">
+        <!--<hr width="80%"> -->
         <h3>AIML and Python Enthusiast, based in India.</h3>
       </div>
       <ul>
