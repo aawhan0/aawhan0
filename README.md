@@ -9,7 +9,7 @@
       <div align="center">
         <h1>Hi 👋, I'm Aawhan</h1>
         <hr width="80%">
-        <h3>creative software developer (Python | UI/UX | JavaScript), based in India.</h3>
+        <h3>AIML and Python Enthusiast, based in India.</h3>
       </div>
       <ul>
         <li>👨‍💻 BTech Computer Science @ SCOPE</li>
@@ -55,20 +55,16 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="35" height="35"/>
     </td>
   </tr>
   <tr>
     <td><b>Backend & APIs</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="35" height="35"/>
       <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="35" height="35"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="socketio" width="35" height="35"/>
     </td>
   </tr>
   <tr>
@@ -83,9 +79,7 @@
     <td><b>Programming Languages</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
     </td>
   </tr>
   <tr>
@@ -104,7 +98,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/>
     </td>
   </tr>
   <tr>
@@ -112,23 +105,20 @@
     <td>
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" alt="illustrator" width="35" height="35"/>
       <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" alt="canva" width="35" height="35"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" width="35" height="35"/>
     </td>
   </tr>
   <tr>
     <td><b>Others</b></td>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="35" height="35"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="35" height="35"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="35" height="35"/>
     </td>
   </tr>
 </table>
 </p>
-
+<!-- 
 <table>
     <tr>
         <th>
@@ -139,7 +129,7 @@
         </th>
     </tr>
 </table>
-
+>>
 
 <p align="center">
   <picture>
