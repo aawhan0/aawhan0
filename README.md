@@ -9,30 +9,35 @@
       <div align="center">
         <h1>Hi 👋, I'm Aawhan</h1>
         <!--<hr width="80%"> -->
-        <h3>AIML and Python Enthusiast, based in India.</h3>
+        <h3>Building AI systems beyond tutorials.</h3>
       </div>
       <ul>
-        <li>👨‍💻 BTech Computer Science @ SCOPE</li>
-        <li>🌱 Currently deep-diving into Python, automation, and creative tooling</li>
-        <li>💡 Love designing clean, intuitive interfaces (UI/UX) and building with JavaScript</li>
-        <li>🎸 I make music – Search "Aawhan" on Spotify!</li>
-      </ul>
+          <li>👨‍💻 Final-year BTech CSE @ VIT Bhopal</li>
+          <li>🤖 1+ year building RAG systems, CV pipelines, and data workflows</li>
+          <li>⚙️ Python, LLMs, LangChain, and real-world AI applications</li>
+          <li>🚀 Exploring AI products and automation</li>
+          <li>🎸 Music on the side – "Aawhan" on Spotify</li>
+    </ul>
       <div align="center">
         <b>Connect with me:</b><br>
-        <a href="mailto:vyasaawhan@gmail.com">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="mail" width="32"/>
+        <a href="mailto:vyasaawhan@gmail.com" style="margin: 0 10px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="mail" width="24"/>
         </a>
-        <a href="https://linkedin.com/in/aawhanvyas">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://linkedin.com/in/aawhanvyas" style="margin: 0 10px;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="24"/>
         </a>
-        <a href="https://instagram.com/aaawhan">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="32"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://instagram.com/aaawhan" style="margin: 0 10px;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="24"/>
         </a>
-        <a href="https://leetcode.com/aawhan0">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="32"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://leetcode.com/aawhan0" style="margin: 0 10px;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="24"/>
         </a>
-        <a href="https://www.youtube.com/c/aaawhann">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="32"/>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.youtube.com/c/aaawhann" style="margin: 0 10px;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="24"/>
         </a>
       </div>
     </td>
