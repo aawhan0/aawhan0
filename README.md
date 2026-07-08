@@ -11,6 +11,11 @@
 </p>
 
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aawhan0&style=flat-square&color=9d4edd&label=Profile+Views"/>
+</p>
+
+
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -76,157 +81,168 @@ width="330"
 <h2 align="center">🚀 Things I've Built</h2>
 
 <p align="center">
-A few projects that started as <i>"this shouldn't take too long"</i> and somehow turned into full applications.
+A collection of projects built while exploring AI, automation and developer tools.
 </p>
 
-<br>
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
 
-### ⚡ PuppetGPT
-
-A local-first RAG chatbot that answers questions from your PDFs using Llama 3, LangChain and ChromaDB.
-
-**Tech:** Python • LangChain • ChromaDB • Ollama
+<td width="49%" valign="top">
 
 <a href="https://github.com/aawhan0/PuppetGPT">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="assets/puppetgpt.png" width="100%" alt="PuppetGPT">
 </a>
+
+<h3 style="margin:12px 0 6px 0;">
+<a href="https://github.com/aawhan0/PuppetGPT" style="text-decoration:none;">
+PuppetGPT
+</a>
+</h3>
+
+<p style="margin:0 0 8px 0;">
+Chat with your PDFs using Retrieval-Augmented Generation.
+</p>
+
+<p style="margin:0;">
+<sub>Python • LangChain • ChromaDB • Ollama</sub>
+</p>
 
 </td>
 
-<td>
+<td width="2%"></td>
 
-### 🎵 gLyric
-
-Because copying a song title into Google every single time felt like too much work.
-
-**Tech:** JavaScript • Chrome Extensions (Manifest V3) • Python • Docker
+<td width="49%" valign="top">
 
 <a href="https://github.com/aawhan0/gLyric">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="assets/glyric.png" width="100%" alt="gLyric">
 </a>
 
+<h3 style="margin:12px 0 6px 0;">
+<a href="https://github.com/aawhan0/gLyric" style="text-decoration:none;">
+gLyric
+</a>
+</h3>
+
+<p style="margin:0 0 8px 0;">
+Instantly open song lyrics while browsing YouTube.
+</p>
+
+<p style="margin:0;">
+<sub>JavaScript • Chrome Extension • Python • Docker</sub>
+</p>
+
 </td>
+
 </tr>
 
 <tr>
-<td>
 
-### 🪪 Aadhaar Lifecycle Intelligence
-
-District-level analytics and anomaly detection built for the UIDAI Hackathon.
-
-**Tech:** Python • Pandas • Visualization
+<td width="49%" valign="top">
 
 <a href="https://github.com/aawhan0/aadhaar-lifecycle-intelligence">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="assets/alimf.png" width="100%" alt="Aadhaar Lifecycle Intelligence">
 </a>
+
+<h3 style="margin:12px 0 6px 0;">
+<a href="https://github.com/aawhan0/aadhaar-lifecycle-intelligence" style="text-decoration:none;">
+Aadhaar Lifecycle Intelligence
+</a>
+</h3>
+
+<p style="margin:0 0 8px 0;">
+District-level analytics and anomaly detection framework.
+</p>
+
+<p style="margin:0;">
+<sub>Python • Pandas • Data Visualization</sub>
+</p>
 
 </td>
 
-<td>
+<td width="2%"></td>
 
-### 🖼️ ClearLabel-AI
-
-Automated image annotation pipeline with quality auditing using YOLOv8 and OpenCV.
-
-**Tech:** Python • YOLOv8 • OpenCV
+<td width="49%" valign="top">
 
 <a href="https://github.com/aawhan0/ClearLabel-AI">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="assets/clearlabelai.png" width="100%" alt="ClearLabel AI">
 </a>
 
+<h3 style="margin:12px 0 6px 0;">
+<a href="https://github.com/aawhan0/ClearLabel-AI" style="text-decoration:none;">
+ClearLabel AI
+</a>
+</h3>
+
+<p style="margin:0 0 8px 0;">
+AI-assisted image annotation and quality auditing using YOLOv8.
+</p>
+
+<p style="margin:0;">
+<sub>Python • YOLOv8 • OpenCV</sub>
+</p>
+
 </td>
+
 </tr>
-</table>
+
 </table>
 
+</br>
+
+<h2 align="center">💻 Tech Stack</h2>
+
 <p align="center">
-<table width="100%" style="table-layout: fixed;">
-  <tr>
-    <td width="20%"><b>Frontend</b></td>
-    <td width="80%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" height="35"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & APIs</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="35" height="35"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="35" height="35"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Programming Languages</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI/ML & Data</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="35" height="35"/>
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="35" height="35"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Tools</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="35" height="35"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Design Tools</b></td>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/>
-      <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" alt="canva" width="35" height="35"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Others</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="35" height="35"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="35" height="35"/>
-    </td>
-  </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,tailwind,flask,fastapi,mongodb,mysql,postgres,docker,git,aws,opencv,tensorflow,figma,photoshop,vscode&perline=9" />
 </p>
-<!-- 
-<table>
-    <tr>
-        <th>
-            <p><img align="center" src="https://readmestats.999857.xyz/api?username=aawhan0&show_icons=true&locale=en&theme=dark" alt="aawhan0"/></p>
-        </th>
-        <th>
-            <p><img align="center" src="https://streak-stats.demolab.com/?user=aawhan0&theme=gotham" alt="aawhan0" /></p>
-        </th>
-    </tr>
-</table>
--->
+
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=aawhan0&bg_color=0d1117&color=ffffff&line=9d4edd&point=c77dff&area=true&hide_border=true"
+width="100%"
+/>
+</p>
+
+
+
+
+
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+
+<img
+height="170"
+src="https://readmestats.999857.xyz/api?username=aawhan0&show_icons=true&locale=en&theme=dark"
+/>
+
+<img
+height="170"
+src="https://streak-stats.demolab.com?user=aawhan0&theme=gotham"
+/>
+
+</p>
+
+
+
+
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<p align="center">
+
+<img
+height="180"
+src="https://readmestats.999857.xyz/api/top-langs/?username=aawhan0&layout=compact&theme=dark"
+/>
+
+</p>
+
+
+
 
 <p align="center">
   <picture>
