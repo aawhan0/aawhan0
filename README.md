@@ -2,53 +2,146 @@
   <img src="https://media1.tenor.com/m/qjdRRog5BF0AAAAd/cyberpunk-edgerunner-david-martinez.gif" width="1000" height="350"/>
 </p>
 
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=FF4ECD&center=true&vCenter=true&width=1100&height=60&lines=Building+Projects+%3E+Watching+Tutorials.;Currently+accepting+bugs+as+character+development.;One+more+feature+won't+hurt...;...it+did.;Learning+AI+by+Building."
+    alt="Typing SVG"
+  />
+</p>
+
+
 <table>
   <tr>
-    <!-- Left side: About section -->
     <td width="60%" valign="top">
-      <div align="center">
-        <h1>Hi 👋, I'm Aawhan</h1>
-        <!--<hr width="80%"> -->
-        <h3>Building AI systems beyond tutorials.</h3>
-      </div>
-      <ul>
-          <li>👨‍💻 Final-year BTech CSE @ VIT Bhopal</li>
-          <li>🤖 1+ year building RAG systems, CV pipelines, and data workflows</li>
-          <li>⚙️ Python, LLMs, LangChain, and real-world AI applications</li>
-          <li>🚀 Exploring AI products and automation</li>
-          <li>🎸 Music on the side – "Aawhan" on Spotify</li>
-    </ul>
-      <div align="center">
-        <b>Connect with me:</b><br>
-        <a href="mailto:vyasaawhan@gmail.com" style="margin: 0 10px;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="mail" width="24"/>
-        </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://linkedin.com/in/aawhanvyas" style="margin: 0 10px;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="24"/>
-        </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://instagram.com/aaawhan" style="margin: 0 10px;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="24"/>
-        </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://leetcode.com/aawhan0" style="margin: 0 10px;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="24"/>
-        </a>
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.youtube.com/c/aaawhann" style="margin: 0 10px;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="24"/>
-        </a>
-      </div>
-    </td>
-    <!-- Right side: Last.fm Scrobbles or Now Playing -->
-    <td width="40%" valign="top" align="center">
-      <div style="border-radius:16px;background:#18191c;padding:20px;max-width:360px;">
-<!--         <span style="color:#ff2222;font-weight:bold;">Last played</span><br> -->
-        <img src="https://arpy8-pastfm-backend.hf.space/live?user=aaawhan" alt="Last.fm Scrobble" style="border-radius:10px;max-width:320px;"/>
-      </div>
-    </td>
-  </tr>
+
+<h1>Hey, I'm Aawhan</h1>
+
+<p>
+Recent Computer Science graduate who's currently learning AI the only way I know how:
+<b>building things until they finally work.</b>
+</p>
+
+<p>
+Lately I've been spending most of my time experimenting with
+<b>LLMs</b>,
+<b>RAG</b>,
+<b>Computer Vision</b>,
+and whatever rabbit hole catches my attention next.
+</p>
+
+<p>
+When I'm not writing Python, I'm probably making music, redesigning my portfolio for the 17th time, or convincing myself that adding "one more feature" is a good idea.
+</p>
+
+<br>
+
+<h3 align="center">Let's connect.</h3>
+
+<p align="center">
+  <a href="mailto:vyasaawhan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/aawhan0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aawhanvyas">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/aawhan0">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/aaawhan">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/aaawhann">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+</td>
+
+<td width="40%" align="center" valign="top">
+
+<img
+src="https://arpy8-pastfm-backend.hf.space/live?user=aaawhan"
+width="330"
+/>
+
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">🚀 Things I've Built</h2>
+
+<p align="center">
+A few projects that started as <i>"this shouldn't take too long"</i> and somehow turned into full applications.
+</p>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ PuppetGPT
+
+A local-first RAG chatbot that answers questions from your PDFs using Llama 3, LangChain and ChromaDB.
+
+**Tech:** Python • LangChain • ChromaDB • Ollama
+
+<a href="https://github.com/aawhan0/PuppetGPT">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td>
+
+### 🎵 gLyric
+
+Because copying a song title into Google every single time felt like too much work.
+
+**Tech:** JavaScript • Chrome Extensions (Manifest V3) • Python • Docker
+
+<a href="https://github.com/aawhan0/gLyric">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🪪 Aadhaar Lifecycle Intelligence
+
+District-level analytics and anomaly detection built for the UIDAI Hackathon.
+
+**Tech:** Python • Pandas • Visualization
+
+<a href="https://github.com/aawhan0/aadhaar-lifecycle-intelligence">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td>
+
+### 🖼️ ClearLabel-AI
+
+Automated image annotation pipeline with quality auditing using YOLOv8 and OpenCV.
+
+**Tech:** Python • YOLOv8 • OpenCV
+
+<a href="https://github.com/aawhan0/ClearLabel-AI">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
 </table>
 
 <p align="center">
