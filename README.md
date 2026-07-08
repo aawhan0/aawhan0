@@ -196,53 +196,30 @@ AI-assisted image annotation and quality auditing using YOLOv8.
 </p>
 
 
-<h2 align="center">📈 Contribution Activity</h2>
-
-<p align="center">
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=aawhan0&bg_color=0d1117&color=ffffff&line=9d4edd&point=c77dff&area=true&hide_border=true"
-width="100%"
-/>
-</p>
-
-
-
-
-
+</br>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
+<table align="center">
+<tr>
 
+<td align="center">
 <img
-height="170"
 src="https://readmestats.999857.xyz/api?username=aawhan0&show_icons=true&locale=en&theme=dark"
-/>
+height="180"/>
+</td>
 
+<td align="center">
 <img
-height="170"
-src="https://streak-stats.demolab.com?user=aawhan0&theme=gotham"
-/>
-
-</p>
-
-
-
-
-
-<h2 align="center">💻 Most Used Languages</h2>
-
-<p align="center">
-
-<img
-height="180"
 src="https://readmestats.999857.xyz/api/top-langs/?username=aawhan0&layout=compact&theme=dark"
-/>
+height="180"/>
+</td>
 
-</p>
+</tr>
 
 
 
+</table>
 
 <p align="center">
   <picture>
