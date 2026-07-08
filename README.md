@@ -52,7 +52,6 @@
 </table>
 
 <p align="center">
-<p align="center">
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td width="20%"><b>Frontend</b></td>
@@ -134,7 +133,7 @@
         </th>
     </tr>
 </table>
->>
+-->
 
 <p align="center">
   <picture>
